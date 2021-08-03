@@ -1,4 +1,4 @@
-### Olá! Eu sou o Vinicius Batista
+### 👋 Olá! Eu sou o Vinicius Batista
 
 <p>
 Sou um Dev Full-Stack com foco no desenvolvimento Front-End, atualmente em busca de uma oportunidade para atuar como desenvolvedor.
