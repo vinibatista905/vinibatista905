@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Vinicius Batista
 
 <p>
-Sou um Dev Full-Stack com foco no desenvolvimento Front-End, autalmente em busca de uma oportunidade para atuar como desenvolvedor.
+Sou um Dev Full-Stack com foco no desenvolvimento Front-End, atualmente em busca de uma oportunidade para atuar como desenvolvedor.
 </p>
 
  <div>
