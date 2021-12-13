@@ -1,8 +1,16 @@
 ### 👋 Olá! Eu sou o Vinicius Batista
 
 <p>
-Sou um Dev Full-Stack com foco no desenvolvimento Front-End, atualmente em busca de uma oportunidade para atuar como desenvolvedor.
+Sou um Dev Full-Stack apaixonado por desenvolvimento web, atualmente em busca de uma oportunidade para atuar como desenvolvedor.
+Confira os meus projetos! 
 </p>
+
+### 👋 Hi! I'm Vinicius Batista
+
+<p>
+I'm a Full-Stack Developer passionate about web development, currently looking for an opportunity to work as a developer.
+</p>
+<p> Check out my projects!  </p>
 
  <div>
   <a href="https://github.com/vinibatista905">
@@ -11,12 +19,18 @@ Sou um Dev Full-Stack com foco no desenvolvimento Front-End, atualmente em busca
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Vini-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Vini-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Vini-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Vini-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Vini-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" alt="Vini-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-    <img align="center" alt="Vini-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="Vini-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Vini-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="Vini-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
 </div>
   
   ##
