@@ -1,14 +1,14 @@
 ### 👋 Olá! Eu sou o Vinicius Batista
 
 <p>
-Sou um Dev Full-Stack apaixonado por desenvolvimento web, atualmente em busca de uma oportunidade para atuar como desenvolvedor.
+Sou um Desenvolvedor Full-Stack apaixonado por desenvolvimento de software.
 Confira os meus projetos! 
 </p>
 
 ### 👋 Hi! I'm Vinicius Batista
 
 <p>
-I'm a Full-Stack Developer passionate about web development, currently looking for an opportunity to work as a developer.
+I'm a Full-Stack Developer passionate about software development.
 </p>
 <p> Check out my projects!  </p>
 
