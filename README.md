@@ -1,11 +1,13 @@
-### 👋 Olá! Eu sou o Vinicius Batista
+### <h1>👋 Olá! Eu sou o Vinicius Batista </h1>
 
 <p>
 Sou um Desenvolvedor Full-Stack apaixonado por desenvolvimento de software.
-Confira os meus projetos! 
 </p>
+<p>Confira os meus projetos!</p>
 
-### 👋 Hi! I'm Vinicius Batista
+<br>
+
+### <h2>👋 Hi! I'm Vinicius Batista</h2>
 
 <p>
 I'm a Full-Stack Developer passionate about software development.
