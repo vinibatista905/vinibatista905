@@ -3,11 +3,17 @@
 <p>
 Sou um Desenvolvedor Full-Stack apaixonado por desenvolvimento de software.
 </p>
+<p>
+Atualmente trabalhando com React, GraphQL, NestJS e MongoDB.
+</p>
 <p>Confira os meus projetos!</p>
 
 ### 
 <p>
 I'm a Full-Stack Developer passionate about software development.
+</p>
+<p>
+Currently working with React, GraphQL, NestJS and MongoDB.
 </p>
 <p> Check out my projects!  </p>
 
