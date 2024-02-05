@@ -23,6 +23,6 @@ I have 2 years of experience in the field, and I've had the opportunity to work 
 
 <div>
   <a href="https://github.com/vinibatista905">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinibatista905&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinibatista905&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinibatista905&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinibatista905&layout=compact&langs_count=7&theme=dracula"/>
 </div>
