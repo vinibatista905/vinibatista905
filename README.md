@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm Vinicius Batista, a passionate software developer and tech enthusiast. I currently work as a Software Developer at Wise Systems. </br>
+I'm Vinicius Batista, a passionate software developer and tech enthusiast. I currently work as a Software Developer at <a href="https://www.wises.com.br/" target="_blank">Wise Systems.</a> </br>
 I have 2 years of experience in the field, and I've had the opportunity to work on various exciting projects and explore different technologies.
 
 # 💻 Tech Stack
