@@ -8,7 +8,7 @@ Currently, my main career focus is web development. I use the JavaScript stack (
 <a href="https://www.linkedin.com/in/vinicius-batista-0120016a/"><img src="https://img.shields.io/badge/-Vinicius Batista-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:vinicius-moura-batista@hotmail.com"><img src="https://img.shields.io/badge/vinicius.batista@hotmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/></a>
 <a href="https://instagram.com/vinaobatista"><img src="https://img.shields.io/badge/-@vinaobatista_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="[https://instagram.com/vinaobatista](https://portfolio-vinibatista.netlify.app/)"><img src="https://img.shields.io/badge/-Portfolio_-A745EA?style=flat-square&logoColor=white"/></a>
+<a href="https://portfolio-vinibatista.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio_-A745EA?style=flat-square&logoColor=white"/></a>
 </p>
 
 # 🛠 Tech Stack
