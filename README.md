@@ -2,7 +2,7 @@
 
 I'm Vinicius Batista, a passionate software developer and tech enthusiast. I currently work as a Software Developer at <a href="https://www.wises.com.br/" target="_blank">Wise Systems.</a> </br>
 I've been working in tech since 2021, and I've had the opportunity to work on various exciting projects and explore different technologies. 
-Currently, my main career focus is web development. I use the JavaScript / TypeScript stack (React & Node) to develop on both fronts.
+Currently, my main career focus is web development. I use the JavaScript / TypeScript stack (React/Angular & Node.js) to develop on both fronts.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vinicius-batista-0120016a/"><img src="https://img.shields.io/badge/-Vinicius Batista-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
